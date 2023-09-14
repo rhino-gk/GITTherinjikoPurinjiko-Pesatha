@@ -14,6 +14,7 @@
 		3D5720FF2AB2E1770060537E /* GITTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5720FE2AB2E1770060537E /* GITTestTests.swift */; };
 		3D5721092AB2E1770060537E /* GITTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5721082AB2E1770060537E /* GITTestUITests.swift */; };
 		3D57210B2AB2E1770060537E /* GITTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D57210A2AB2E1770060537E /* GITTestUITestsLaunchTests.swift */; };
+		3D5721182AB2E3A40060537E /* LandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5721172AB2E3A40060537E /* LandingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		3D5721042AB2E1770060537E /* GITTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GITTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D5721082AB2E1770060537E /* GITTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GITTestUITests.swift; sourceTree = "<group>"; };
 		3D57210A2AB2E1770060537E /* GITTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GITTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3D5721172AB2E3A40060537E /* LandingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				3D5720EC2AB2E1760060537E /* GITTestApp.swift */,
 				3D5720EE2AB2E1760060537E /* ContentView.swift */,
+				3D5721172AB2E3A40060537E /* LandingView.swift */,
 				3D5720F02AB2E1770060537E /* Assets.xcassets */,
 				3D5720F22AB2E1770060537E /* GITTest.entitlements */,
 				3D5720F32AB2E1770060537E /* Preview Content */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D5721182AB2E3A40060537E /* LandingView.swift in Sources */,
 				3D5720EF2AB2E1760060537E /* ContentView.swift in Sources */,
 				3D5720ED2AB2E1760060537E /* GITTestApp.swift in Sources */,
 			);
