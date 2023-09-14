@@ -15,6 +15,13 @@ struct LandingView: View {
                 Text("This text is in main")
                 Text("This text is also in main")
                 Text("This again, main")
+                Text("This text is in mara kilai 3")
+                Text("kilai3---1")
+                Text("kilai3---2")
+                Text("kilai3---3")
+                Text("kilai3---4")
+                Text("kilai3---5")
+                Text("kilai3---6")
             }
         }
     }
