@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
             Text("this text is in main")
+            LandingView() // this was written in main
         }
         .padding()
     }
